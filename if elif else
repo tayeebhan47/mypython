@@ -1,0 +1,10 @@
+#if elif else
+m=int(input("enter your percentage"))
+if m>=95:
+  print("full syk")
+elif m>=75:
+  print("good")
+elif m==50:
+  print("average")
+else:
+  print("fail")
