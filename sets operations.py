@@ -1,0 +1,5 @@
+#sets of operations
+a={1,4,7,23}
+b={1,3,7,34}
+c=a-b
+print(c)
