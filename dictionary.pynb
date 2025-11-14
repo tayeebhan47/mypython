@@ -1,0 +1,14 @@
+#dictionary 7
+chota={
+    "name"  :"bheem",
+    "age"   :20,
+    "dream" :"bike"
+}
+print(chota)
+chota["age"]=30
+print(chota)
+del chota ["dream"]
+print(chota)
+  
+
+    
