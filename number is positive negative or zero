@@ -1,0 +1,8 @@
+# a number is positive negative or zero
+y=float(input("enter the number "))
+if y>0:
+  print("positive number")
+if y<0:
+  print("negative number")
+else:
+  print("it is a zero")
