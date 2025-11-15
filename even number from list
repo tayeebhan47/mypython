@@ -1,0 +1,5 @@
+# even numbers from list 6
+number = [12,14,16,18]
+for n in number:
+  if n%2 == 0:
+    print(n)
