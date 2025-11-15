@@ -1,0 +1,9 @@
+#polymorphism
+class hello:
+  def add(self):
+    return 10+8
+class hey:
+  def add(self):
+    return 7-4
+obj=hello()
+obj.add()        
